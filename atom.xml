@@ -3,11 +3,11 @@
   <title>大姐的學習部落格</title>
   
   <subtitle>建築轉職前端的學習日常</subtitle>
-  <link href="https://github.com/kevinhes/kevinhescodeblog/atom.xml" rel="self"/>
+  <link href="https://kevinhes.github.io/kevinhescodeblog/atom.xml" rel="self"/>
   
-  <link href="https://github.com/kevinhes/kevinhescodeblog/"/>
+  <link href="https://kevinhes.github.io/kevinhescodeblog/"/>
   <updated>2022-04-09T11:21:40.004Z</updated>
-  <id>https://github.com/kevinhes/kevinhescodeblog/</id>
+  <id>https://kevinhes.github.io/kevinhescodeblog/</id>
   
   <author>
     <name>kevinhes</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>我的第一篇 hexo 文章</title>
-    <link href="https://github.com/kevinhes/kevinhescodeblog/2022/04/09/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87-hexo-%E6%96%87%E7%AB%A0/"/>
-    <id>https://github.com/kevinhes/kevinhescodeblog/2022/04/09/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87-hexo-%E6%96%87%E7%AB%A0/</id>
+    <link href="https://kevinhes.github.io/kevinhescodeblog/2022/04/09/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87-hexo-%E6%96%87%E7%AB%A0/"/>
+    <id>https://kevinhes.github.io/kevinhescodeblog/2022/04/09/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87-hexo-%E6%96%87%E7%AB%A0/</id>
     <published>2022-04-09T11:20:45.000Z</published>
     <updated>2022-04-09T11:21:40.004Z</updated>
     
@@ -38,8 +38,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://github.com/kevinhes/kevinhescodeblog/2022/04/09/hello-world/"/>
-    <id>https://github.com/kevinhes/kevinhescodeblog/2022/04/09/hello-world/</id>
+    <link href="https://kevinhes.github.io/kevinhescodeblog/2022/04/09/hello-world/"/>
+    <id>https://kevinhes.github.io/kevinhescodeblog/2022/04/09/hello-world/</id>
     <published>2022-04-09T11:08:34.605Z</published>
     <updated>2022-04-09T11:08:34.605Z</updated>
     
